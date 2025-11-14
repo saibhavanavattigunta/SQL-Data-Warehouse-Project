@@ -1,8 +1,6 @@
-Below is a polished, GitHub-ready **README.md** that follows your exact structure and wording requirements.
 
----
 
-# 👋 Welcome
+# Data Warehouse & Analytics Portfolio Project
 
 Welcome to my **Data Warehouse & Analytics Portfolio Project**.
 This repository demonstrates a complete end-to-end solution—from building a modern data warehouse to generating actionable insights through analytics and reporting.
@@ -18,7 +16,7 @@ It covers the entire lifecycle: data sourcing, data warehousing, transformation,
 
 # 🛠️ Project Requirements
 
-## 🏗️ Building the DWH (Data Engineering)
+## 🏗️ Building the Data Warehouse (Data Engineering)
 
 ### **Objective**
 
@@ -72,11 +70,6 @@ These project insights empower stakeholders with key business metrics, enabling 
 
 This project is licensed under the **MIT License**, which allows open use, modification, and distribution of the code with proper attribution.
 You are free to build upon or adapt this work for personal or commercial use.
-
----
-
-Absolutely — here’s a **more creative, engaging, personality-driven** version of your *About Me* section.
-It still sounds professional, but with more character and storytelling.
 
 ---
 
