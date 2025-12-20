@@ -1,7 +1,8 @@
 /*****************************************************************************************
- Author       : Sai Bhavana  Vattigunta
- Procedure    : bronze.load_bronze
- Description  :
+ Author : Sai Bhavana  Vattigunta
+ Strored Procedure : Load Bronze Layer (Source -> Bronze)
+
+ Description:
     This stored procedure loads raw source data into the BRONZE layer of the
     Data Warehouse. It performs a full refresh by truncating existing Bronze
     tables and bulk loading data from CSV files sourced from CRM and ERP systems.
@@ -18,7 +19,10 @@
     Any existing data in the Bronze layer will be permanently deleted.
     Ensure source files are validated and backups exist before execution.
 
- Usage        :
+ Parameters: None
+ This stored procedure does not accept any parameters or return any values.
+
+ Usage Example:
     EXEC bronze.load_bronze;
 
 ******************************************************************************************/
